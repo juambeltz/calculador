@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# React + Vite
+# :name_badge: Calculador de prestamos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## :newspaper: Descripción 
+Calcula monto total mas intereses a partir de una cifra obtenida mediante un range y tambien con botones
 
-Currently, two official plugins are available:
+## 🧠 Tecnologias usadas
+- javascript / react / vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# calculador_prestamo
-calocula monto total a pagar y cuotas a partir de un monto y un plazo
->>>>>>> 3578e244169e2257ad7e8b1964b233cd91dbff61
+## 🌐 Ver app en vivo
+https://coruscating-croquembouche-fa69a6.netlify.app/
